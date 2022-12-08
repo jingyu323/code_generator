@@ -8,3 +8,11 @@
 
 
 点击之后打开一个界面，填入相关的路径信息即可
+
+
+
+这个插件挺好用的
+
+# MyBatisCodeGenerator
+
+https://plugins.jetbrains.com/plugin/19088-mybatiscodegenerator
