@@ -1,5 +1,5 @@
 # code_generator
-1.安装mybatis generate tool
+1.打开设置-》plugin-》搜索mybatis generate tool-. 安装mybatis generate tool
 2.连接数据库
 3.选中表
 
